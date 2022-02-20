@@ -10,7 +10,8 @@ Small application with Vanilla JS that connects with the Pokeapi API. The applic
 
 <br />
     
-<p align="center"><img src="./assets/img/imgReadme.png" width="400"></a><img src="./assets/img/readmePika.png" width="400"></a></p>
+<p align="center"><img src="./assets/img/imgReadme.png" width="400"></a> <br>
+<img src="./assets/img/readmePika.png" width="400"></a></p>
 
 <br />
 
