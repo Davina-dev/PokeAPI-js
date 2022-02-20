@@ -6,7 +6,7 @@
 
 ##  Description:
 
-    Small application with Vanilla JS that connects with the Pokeapi API. The application consists of a search engine, which filters pokémon by name.
+Small application with Vanilla JS that connects with the Pokeapi API. The application consists of a search engine, which filters pokémon by name.
 
 <br />
     
